@@ -6,5 +6,5 @@ PLDroidMediaStreaming 是一个适用于 Android 的 RTMP 直播推流 SDK，可
 
 本文档为技术文档，需要阅读者：
 
-  - 具有基本的 Android 开发能力
+  - 具有基本 Android 开发能力
   - 准备接入七牛直播云或已完成七牛直播云接入
